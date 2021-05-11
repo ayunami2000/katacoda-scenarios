@@ -12,15 +12,10 @@
     ],
     "intro": {
       "text": "intro.md",
-      "courseData": "/tmp/intro.sh"
+      "courseData": "intro.sh"
     },
     "finish": {
       "text": "finish.md"
-    },
-    "assets": {
-      "host01": [
-        {"file": "intro.sh", "target": "/tmp/", "chmod": "+x"}
-      ]
     }
   },
   "environment": {
