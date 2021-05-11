@@ -17,3 +17,5 @@ dl/run slax `/usr/local/bin/slax.sh`{{execute}}
 dl/run 7pe `/usr/local/bin/7pe.sh`{{execute}}
 
 install/run minecraft `/usr/local/bin/portablemc.sh`{{execute}}
+
+install/run CollabVM Server `/usr/local/bin/cvm.sh`{{execute}}
