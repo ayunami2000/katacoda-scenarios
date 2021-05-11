@@ -6,7 +6,7 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "ayunami2000",
         "text": "step1.md"
       }
     ],
@@ -17,7 +17,10 @@
       "text": "finish.md"
     }
   },
-  "environment": {},
+  "environment": {
+    "uilayout": "terminal-desktop",
+    "uimessage1": "ayunami2000\r\n"
+  },
   "backend": {
     "imageid": "ubuntu:2004"
   }
