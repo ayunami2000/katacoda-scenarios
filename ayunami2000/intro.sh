@@ -9,4 +9,4 @@ Xvfb -screen 0 900x720x24+32 +extension GLX &
 export DISPLAY=:0
 fluxbox &
 x11vnc -noshm -geometry 900x720 -shared -forever &
-rm -- "$0"
+clear
