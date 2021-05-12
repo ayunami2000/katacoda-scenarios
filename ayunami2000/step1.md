@@ -19,3 +19,7 @@ dl/run 7pe `/usr/local/bin/7pe.sh`{{execute}}
 install/run minecraft `/usr/local/bin/portablemc.sh`{{execute}}
 
 install/run CollabVM Server `/usr/local/bin/cvm.sh`{{execute}}
+
+download/run mineshafter `/usr/local/bin/mineshafter.sh`{{execute}}
+
+reset display if not working `/usr/local/bin/resetdisplay.sh;export DISPLAY=:0`{{execute}}

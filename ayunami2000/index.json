@@ -24,7 +24,9 @@
         {"file": "slax.sh", "target": "/usr/local/bin/", "chmod": "+x"},
         {"file": "7pe.sh", "target": "/usr/local/bin/", "chmod": "+x"},
         {"file": "portablemc.sh", "target": "/usr/local/bin/", "chmod": "+x"},
-        {"file": "cvm.sh", "target": "/usr/local/bin/", "chmod": "+x"}
+        {"file": "cvm.sh", "target": "/usr/local/bin/", "chmod": "+x"},
+        {"file": "mineshafter.sh", "target": "/usr/local/bin/", "chmod": "+x"},
+        {"file": "resetdisplay.sh", "target": "/usr/local/bin/", "chmod": "+x"}
       ]
     }
   },
